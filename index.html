@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Egyptian Use of the Shield Metaphor</title>
+    <style>
+	    body {
+			background-color: #000; /* Set the background color to black */
+			color: #fff; /* Set the text color to white */
+			font-family: 'Courier New', Courier, monospace; /* Set the font to Courier New */
+        }
+        .text-indent {
+            display: block; /* Make the span act like a block element */
+            padding-left: 20px; /* Adjust this value to control the indentation */
+        }
+		.cyan-text {
+		color: #00FFFF; /* Cyan */
+		}
+		.white-text {
+		color: #FFFFFF; /* White */
+		}
+		.green-text {
+		color: #00FF00; /* Green */
+		}
+		.magenta-text {
+		color: #FF00FF; /* Magenta */
+		}
+		.light-gray-text {
+		color: #D3D3D3; /* Light Gray */
+		}
+        .yellow-text {
+        color: #ffff00; /* Yellow color */
+        }
+        .light-green-text {
+        color: #90ee90; /* Light green color */
+        }
+		a {
+			position: relative; /* Ensure the link itself is positioned relative */
+			color: #1e90ff; /* Unused link color */
+		}
+		
+		a:visited {
+			color: #b22222; /* Used link color */
+		}
+
+		a:hover {
+			color: #ffd700; /* Hover link color */
+		}
+
+		a:active {
+		color: #ff8c00; /* Active link color */
+		}
+        a:hover::after {
+            content: attr(data-hover);
+            display: block;
+            position: absolute;
+            background: #aaffff;
+            color: #000; /* Default hover text color */
+            border: 1px solid #ccc;
+            padding: 5px;
+            z-index: 1000;
+			font-size: 100%; /* Adjust this value to change the text size */
+			font-weight: bold; /* Make the hover text bold */
+            top: 1.5em; /* Position the hover text below the link */
+            left: 0; /* Align the hover text with the left edge of the link */
+            white-space: pre; /* Prevent the hover text from wrapping */
+			visibility: hidden; /* Initially hide the hover text */
+        }
+		a:hover[data-hover]:not([data-hover=""])::after {
+			visibility: visible; /* Show the hover text only if data-hover is not empty */
+		}
+        .center {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Comparing Ps 3:5 and P. An. I:8,3-4</h1>
+    <h2>Is <i>māgēn bᵊʿaḏ</i> a Hebrew gloss of the Egyptian <i>jkm ḥꜣ</i>?</h2>
+    <h3>A Shield Around? A Shield Behind? Both?</h3>
+    <h3>Just how dead was the shield metaphor in the ANE?</h3>
+    <h2><span class="center"><a href="EgyptianShieldTexts.html>Papyrus Anastasi I:8,3-4</a> / <a href="Psalm3.html">Psalm 3:5</a></span></h2>
+
+</body>
+</html>
