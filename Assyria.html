@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Egyptian Use of the Shield Metaphor</title>
+    <style>
+	    body {
+			background-color: #000; /* Set the background color to black */
+			color: #fff; /* Set the text color to white */
+			font-family: Arial, Helvetica, sans-serif;
+			<!-- font-family: 'Courier New', Courier, monospace; /* Set the font to Courier New */ -->
+        }
+        .text-indent {
+            display: block; /* Make the span act like a block element */
+            padding-left: 20px; /* Adjust this value to control the indentation */
+        }
+		.cyan-text {
+		color: #00FFFF; /* Cyan */
+		}
+		.white-text {
+		color: #FFFFFF; /* White */
+		}
+		.green-text {
+		color: #00FF00; /* Green */
+		}
+		.magenta-text {
+		color: #FF00FF; /* Magenta */
+		}
+		.light-gray-text {
+		color: #D3D3D3; /* Light Gray */
+		}
+        .yellow-text {
+        color: #ffff00; /* Yellow color */
+        }
+        .light-green-text {
+        color: #90ee90; /* Light green color */
+        }
+		a {
+			position: relative; /* Ensure the link itself is positioned relative */
+			color: #1e90ff; /* Unused link color */
+		}
+		
+		a:visited {
+			color: #b22222; /* Used link color */
+		}
+
+		a:hover {
+			color: #ffd700; /* Hover link color */
+		}
+
+		a:active {
+		color: #ff8c00; /* Active link color */
+		}
+        a:hover::after {
+            content: attr(data-hover);
+            display: block;
+            position: absolute;
+            background: #aaffff;
+            color: #000; /* Default hover text color */
+            border: 1px solid #ccc;
+            padding: 5px;
+            z-index: 1000;
+			font-size: 100%; /* Adjust this value to change the text size */
+			font-weight: bold; /* Make the hover text bold */
+            top: 1.5em; /* Position the hover text below the link */
+            left: 0; /* Align the hover text with the left edge of the link */
+            white-space: pre; /* Prevent the hover text from wrapping */
+			visibility: hidden; /* Initially hide the hover text */
+        }
+		a:hover[data-hover]:not([data-hover=""])::after {
+			visibility: visible; /* Show the hover text only if data-hover is not empty */
+		}
+        .center {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    
+<span class="center">
+<p>
+
+<a href="https://archive.org/details/Assyrian_cad/cad_a2/page/269/mode/1up?q=shield">arītu - Assyrian Dictionary p. 269,270</a>
+<p>
+
+Esarhaddon! I will give you long days and everlasting years in the Inner City. O Esarhaddon, I will be your good shield in Arbela.
+<br>
+<a href="https://oracc.museum.upenn.edu/saao/P333952.151?srch=s.uiswRn">State Archives of Assyria 09 001 o iv 19</a>
+</span>
+
+</body>
+</html>
