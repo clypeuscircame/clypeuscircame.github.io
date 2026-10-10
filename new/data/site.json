@@ -1,0 +1,10 @@
+{
+  "title": "Shield Metaphor",
+  "pages": [
+    { "href": "index.html",                   "label": "Home" },
+    { "href": "EgyptianShieldMetaphor.html",  "label": "Egyptian" },
+    { "href": "BiblicalShieldMetaphor.html",  "label": "Hebrew Bible" },
+    { "href": "AssyrianShieldMetaphor.html",  "label": "Akkadian" },
+    { "href": "Wiig.html",                    "label": "Wiig: “from behind”" }
+  ]
+}
