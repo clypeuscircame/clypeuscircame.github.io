@@ -8,18 +8,16 @@
       "url": null,
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Hebrew:</b></u> ואתּה יהוה מגן בּעדי"
+          "kind": "original",
+          "lang": "he",
+          "label": "Hebrew",
+          "html": "ואתּה יהוה מגן בּעדי"
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> \"You YHWH are a shield about/behind/for me\"</span></span>"
+          "label": "My Translation",
+          "html": "\"You YHWH are a shield about/behind/for me\""
         }
       ]
     },
@@ -31,18 +29,16 @@
       "url": "https://www.blueletterbible.org/lxx/psa/3/1/s_481001",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Greek:</b></u> σὺ δέ, Κύριε, ἀντιλήπτωρ μου εἶ"
+          "kind": "original",
+          "lang": "grc",
+          "label": "Greek",
+          "html": "σὺ δέ, Κύριε, ἀντιλήπτωρ μου εἶ"
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> \"You Lord, are my supporter/protector\"</span>"
+          "label": "My Translation",
+          "html": "\"You Lord, are my supporter/protector\""
         }
       ]
     },
@@ -54,25 +50,22 @@
       "url": "https://www.sefaria.org/Aramaic_Targum_to_Psalms.3?lang=bi",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Aramaic:</b></u> וְאַנְתְּ יְיָ תְּרִיס עֲלֵי"
+          "kind": "original",
+          "lang": "arc",
+          "label": "Aramaic",
+          "html": "וְאַנְתְּ יְיָ תְּרִיס עֲלֵי"
+        },
+        {
+          "kind": "original",
+          "lang": "la",
+          "label": "Latin",
+          "html": "\"tu autem Domine scutum super me\""
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Latin:</b></u> \"tu autem Domine scutum super me\""
-        },
-        {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> \"You LORD are a shield over me\"</span>"
+          "label": "My Translation",
+          "html": "\"You LORD are a shield over me\""
         }
       ]
     },
@@ -84,18 +77,16 @@
       "url": "http://www.liberpsalmorum.info/Psalterium%20Romanum.html",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Latin:</b></u> \"tu autem Domine susceptor meus es\""
+          "kind": "original",
+          "lang": "la",
+          "label": "Latin",
+          "html": "\"tu autem Domine susceptor meus es\""
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> \"You Lord are my sustainer/supporter\"</span>"
+          "label": "My Translation",
+          "html": "\"You Lord are my sustainer/supporter\""
         }
       ]
     },
@@ -107,18 +98,16 @@
       "url": "https://www.die-bibel.de/en/bible/VUL/PSA.3",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Latin:</b></u> \"tu autem Domine clypeus circa me\""
+          "kind": "original",
+          "lang": "la",
+          "label": "Latin",
+          "html": "\"tu autem Domine clypeus circa me\""
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> \"You Lord are a shield about me\"</span></span>"
+          "label": "My Translation",
+          "html": "\"You Lord are a shield about me\""
         }
       ]
     },
@@ -130,18 +119,16 @@
       "url": "https://isidore.co/aquinas/PsalmsAquinas/ThoPs3.htm",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Latin:</b></u> \"Et hoc est melius per literam Hieronymi quae dicit, Clypeus meus circa me, quasi defendens me sicut clypeus.\""
+          "kind": "original",
+          "lang": "la",
+          "label": "Latin",
+          "html": "\"Et hoc est melius per literam Hieronymi quae dicit, Clypeus meus circa me, quasi defendens me sicut clypeus.\""
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> \"This is better rendered by Jerome's version which states, 'My shield around me, as it were, defending me like a shield.'\"</span>"
+          "label": "My Translation",
+          "html": "\"This is better rendered by Jerome's version which states, 'My shield around me, as it were, defending me like a shield.'\""
         }
       ]
     },
@@ -153,18 +140,16 @@
       "url": "https://books.google.com/books?id=B4OMSM2EDfMC&pg=PT155",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Latin:</b></u> “S. Hieron. vertit: clypeus meus circa me. Hebr. מגן, clypeus. בּעדי baadi, pro me, ad me tuitionem. Chald. scutum super me. q.d. Deus me de caelo tegit: hostes vero sunt in terra et de terra, ideo non nocebunt. Sed suavius est, quod dicatur Deus esse circa nos: omnia enim sic in tuto sunt, infra, supra, a dextris et a sinistris, ante et retro. Ps. 90.5. scuto circumdabit te veritas eius, q.d. veritas eius, seu veracitas et fidelitas, qua tibi auxilium Deus promisit, te circumdabit et proteget : id est, Deus ideo te conservabit, quia id se facturum asseruit. ”"
+          "kind": "original",
+          "lang": "la",
+          "label": "Latin",
+          "html": "“S. Hieron. vertit: clypeus meus circa me. Hebr. מגן, clypeus. בּעדי baadi, pro me, ad me tuitionem. Chald. scutum super me. q.d. Deus me de caelo tegit: hostes vero sunt in terra et de terra, ideo non nocebunt. Sed suavius est, quod dicatur Deus esse circa nos: omnia enim sic in tuto sunt, infra, supra, a dextris et a sinistris, ante et retro. Ps. 90.5. scuto circumdabit te veritas eius, q.d. veritas eius, seu veracitas et fidelitas, qua tibi auxilium Deus promisit, te circumdabit et proteget : id est, Deus ideo te conservabit, quia id se facturum asseruit. ”"
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> “St. Jerome translates: \"my shield around me\" Hebrew: מגן, shield. בּעדי baadi, for me, for my protection. Targum: shield over me. That is to say God covers me from heaven; the enemy however, are on the earth, and from the earth, therefore they will do no harm. But it is more comforting to say that God is around us: for then everything is secure - below, above, to the right and to the left, before and behind. Ps 90.5: \"His truth will surround you with a shield\", that is to say, his truth, both his veracity and faithfulness, by which God promised help, will surround you and protect you. That is, God will thus preserve you, because He has declared that He will do so.”</span></span>"
+          "label": "My Translation",
+          "html": "“St. Jerome translates: \"my shield around me\" Hebrew: מגן, shield. בּעדי baadi, for me, for my protection. Targum: shield over me. That is to say God covers me from heaven; the enemy however, are on the earth, and from the earth, therefore they will do no harm. But it is more comforting to say that God is around us: for then everything is secure - below, above, to the right and to the left, before and behind. Ps 90.5: \"His truth will surround you with a shield\", that is to say, his truth, both his veracity and faithfulness, by which God promised help, will surround you and protect you. That is, God will thus preserve you, because He has declared that He will do so.”"
         }
       ]
     },
@@ -176,18 +161,16 @@
       "url": "https://archive.org/details/bub_gb_Zq0ZXweLlU4C/page/n159",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Latin:</b></u> “„At Tu, Iova, clypeus es circa me , plus est, [quam si dixisset] clypeus meus, nam clypeorum alii partem corporis tegunt, alii totum corpus muniunt: tu autem mihi es, inquit, vice clypei, qui me undiquaque tegit ac/[et] munit. Alioqui vox usurpaut de praesidii/[praesidio] et protectione” (quotation by Phillips in <a href=\"https://archive.org/details/acommentaryonps01philgoog/page/n93\">1872</a>)"
+          "kind": "original",
+          "lang": "la",
+          "label": "Latin",
+          "html": "“„At Tu, Iova, clypeus es circa me , plus est, [quam si dixisset] clypeus meus, nam clypeorum alii partem corporis tegunt, alii totum corpus muniunt: tu autem mihi es, inquit, vice clypei, qui me undiquaque tegit ac/[et] munit. Alioqui vox usurpaut de praesidii/[praesidio] et protectione” (quotation by Phillips in <a href=\"https://archive.org/details/acommentaryonps01philgoog/page/n93\">1872</a>)"
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> “But you, O Jehovah, are a shield around me,” which is more than if he had said, “my shield,” for some shields cover part of the body, others fortify the whole body: “But you are to me in place of a shield,” he says, “one who covers and fortifies me from every direction.” Otherwise, the word is used concerning defense and protection.</span></span>"
+          "label": "My Translation",
+          "html": "“But you, O Jehovah, are a shield around me,” which is more than if he had said, “my shield,” for some shields cover part of the body, others fortify the whole body: “But you are to me in place of a shield,” he says, “one who covers and fortifies me from every direction.” Otherwise, the word is used concerning defense and protection."
         }
       ]
     },
@@ -199,18 +182,16 @@
       "url": "https://archive.org/details/a613747900deweuoft/page/100",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Deutsch:</b></u> “Mein Schild ] wörtl. Schild um mich herum. Schild ist Schutz, Rettung.”"
+          "kind": "original",
+          "lang": "de",
+          "label": "Deutsch",
+          "html": "“Mein Schild ] wörtl. Schild um mich herum. Schild ist Schutz, Rettung.”"
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> “My Shield ] lit. “Shield about me.” Shield is protection, salvation.”</span>"
+          "label": "My Translation",
+          "html": "“My Shield ] lit. “Shield about me.” Shield is protection, salvation.”"
         }
       ]
     },
@@ -222,18 +203,18 @@
       "url": "https://babel.hathitrust.org/cgi/pt?id=hvd.ah68yu&seq=74",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Deutsch:</b></u> Das בּעד entspricht völlig unferem „um,” und dem Griech ἀμφί, Ew.613. um mich her, mich Schützend."
+          "kind": "original",
+          "lang": "de",
+          "label": "Deutsch",
+          "html": "Das בּעד entspricht völlig unferem „um,” und dem Griech ἀμφί, Ew.613. um mich her, mich Schützend."
         },
         {
           "kind": "translation",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b><a href=\"https://babel.hathitrust.org/cgi/pt?id=yale.39002050940296&amp;seq=61\">Commentary on the Psalms (TT Clark:1851), p. 49</a></b></u> “The בּעד corresponds entirely to the German um (Anglice, about), and to the Gr. ἀμφί Ew. p. 613, around me, protecting me.”</span>"
+          "citation": "Commentary on the Psalms (TT Clark:1851), p. 49",
+          "html": "“The בּעד corresponds entirely to the German um (Anglice, about), and to the Gr. ἀμφί Ew. p. 613, around me, protecting me.”",
+          "url": "https://babel.hathitrust.org/cgi/pt?id=yale.39002050940296&seq=61"
         }
       ]
     },
@@ -245,11 +226,10 @@
       "url": "https://books.google.com/books?id=uetiAAAAcAAJ&pg=PA23",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> [139.] מָגֵן (ma-ghén) a shield, LXX my advocate, protector. From גָנַן he covered, protected. A noun defective, heeman. וּמָגֵן and my shield, Ps. 84.12.<br>[140.] (ba-עadhée) around me. From עָדָה, he passed over, is formed עַד, to, until, and in the form of regimen, עַדֵי, until, Ps. 83. 18. It usually has the affixes of plur. nouns, R. 101. and accordingly makes עָדֶיךָ, unto thee, Ps. 65.3. Prefixed with ב, בְּעַד, in, for, about, which with affixes changes ( ַ ) into ( ֲ ), R. 121. and punctuates the preceding letter, R. 13. and makes בַּעֲדִי, about, or for me. And the night is light, בַּעֲדֵנִי, about me, Ps. 139.11. LXX. in my luxury (perhaps they read from עֵדֵן, pleasure, delights), בַּעֲדוֹ for him. </span>"
+          "html": "[139.] מָגֵן (ma-ghén) a shield, LXX my advocate, protector. From גָנַן he covered, protected. A noun defective, heeman. וּמָגֵן and my shield, Ps. 84.12.<br>[140.] (ba-עadhée) around me. From עָדָה, he passed over, is formed עַד, to, until, and in the form of regimen, עַדֵי, until, Ps. 83. 18. It usually has the affixes of plur. nouns, R. 101. and accordingly makes עָדֶיךָ, unto thee, Ps. 65.3. Prefixed with ב, בְּעַד, in, for, about, which with affixes changes ( ַ ) into ( ֲ ), R. 121. and punctuates the preceding letter, R. 13. and makes בַּעֲדִי, about, or for me. And the night is light, בַּעֲדֵנִי, about me, Ps. 139.11. LXX. in my luxury (perhaps they read from עֵדֵן, pleasure, delights), בַּעֲדוֹ for him. </span>"
         }
       ]
     },
@@ -261,11 +241,10 @@
       "url": "https://babel.hathitrust.org/cgi/pt?id=miun.ajf7591.0001.001;view=1up;seq=41",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> “... a shield about me, or around me, i.e. covering my whole body, not merely part of it, as ordinary shields do.”</span>"
+          "html": "“... a shield about me, or around me, i.e. covering my whole body, not merely part of it, as ordinary shields do.”"
         }
       ]
     },
@@ -277,18 +256,16 @@
       "url": "https://archive.org/details/diepsalmen00olshgoog/page/43/mode/1up",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Deutsch:</b></u> Zwar schützt kein Schild von allen Seiten, (בעדי)‎ wohl aber der Herr gleich einem Schilde."
+          "kind": "original",
+          "lang": "de",
+          "label": "Deutsch",
+          "html": "Zwar schützt kein Schild von allen Seiten, (בעדי)‎ wohl aber der Herr gleich einem Schilde."
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> No shield protects from all sides, (בעדי) however, the Lord protects like a shield.</span>"
+          "label": "My Translation",
+          "html": "No shield protects from all sides, (בעדי) however, the Lord protects like a shield."
         }
       ]
     },
@@ -300,25 +277,24 @@
       "url": "https://archive.org/details/commentarberden00deligoog/page/24/mode/1up",
       "texts": [
         {
+          "kind": "original",
+          "lang": "de",
+          "label": "Deutsch",
+          "html": "Stündlich hat er einen vernichtenden Ueberfall zu fürchten, aber Jehova ist das Schild das ihn umschliesst und schirmt."
+        },
+        {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Deutsch:</b></u> Stündlich hat er einen vernichtenden Ueberfall zu fürchten, aber Jehova ist das Schild das ihn umschliesst und schirmt."
+          "label": "My Translation",
+          "html": "Every hour he has reason to fear a devastating attack, but Jehovah is the shield that encloses and protects him."
         },
         {
           "kind": "translation",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> Every hour he has reason to fear a devastating attack, but Jehovah is the shield that encloses and protects him."
-        },
-        {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b><a href=\"https://archive.org/details/biblicalcommenta188301deli/page/137/mode/1up\"> Biblical commentary on the Psalms Delitzsch, trans. David Eaton 1883</a></b></u> Every hour he has reason to fear an attack that will annihilate him; but Jahve is the shield that covers him before and behind.</span>"
+          "citation": "Biblical commentary on the Psalms Delitzsch, trans. David Eaton 1883",
+          "html": "Every hour he has reason to fear an attack that will annihilate him; but Jahve is the shield that covers him before and behind.",
+          "url": "https://archive.org/details/biblicalcommenta188301deli/page/137/mode/1up"
         }
       ]
     },
@@ -330,18 +306,18 @@
       "url": "https://archive.org/details/diepsalmen00hitzgoog/page/n53",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Deutsch:</b></u>“בּעדי] Jahve hinter ihm stehend halt ihm den Schild vor (Sach. 12, 8. vgl. 2 Sam. 6, 16.).” [Is this an attempt to harmonize the LXX and MT?]"
+          "kind": "original",
+          "lang": "de",
+          "label": "Deutsch",
+          "html": "“בּעדי] Jahve hinter ihm stehend halt ihm den Schild vor (Sach. 12, 8. vgl. 2 Sam. 6, 16.).” [Is this an attempt to harmonize the LXX and MT?]"
         },
         {
           "kind": "translation",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b><a href=\"https://archive.org/details/psalms09moll/page/64/mode/1up\">English translation by Briggs-Moll, The Psalms, (1872), p. 64:</a></b></u> “Jehovah stands behind him and holds His shield before him (Zech. xii. 8; cf. 2 Sam. vi 16).”</span>"
+          "citation": "English translation by Briggs-Moll, The Psalms, (1872), p. 64",
+          "html": "“Jehovah stands behind him and holds His shield before him (Zech. xii. 8; cf. 2 Sam. vi 16).”",
+          "url": "https://archive.org/details/psalms09moll/page/64/mode/1up"
         }
       ]
     },
@@ -353,11 +329,10 @@
       "url": "https://archive.org/details/hebrewchrestom00gree/page/220/mode/2up",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> מָגֵן shield, from גָנַן to protect, a source of protection and defence, Gen. 15:1. בַּעֲדִי, not only before him, but around him; the primary sense of the preposition, according to Gesenius, is, close to me, on all sides of me; according to Hupfeld, between me and everything else.</span>"
+          "html": "מָגֵן shield, from גָנַן to protect, a source of protection and defence, Gen. 15:1. בַּעֲדִי, not only before him, but around him; the primary sense of the preposition, according to Gesenius, is, close to me, on all sides of me; according to Hupfeld, between me and everything else."
         }
       ]
     },
@@ -369,11 +344,10 @@
       "url": "https://archive.org/details/treasurydavidco02spurgoog/page/n40",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> “The word in the original signifies more than a shield; it means a buckler round about, a protection which shall surround a man entirely, a shield above, beneath, around, without and within.”</span>"
+          "html": "“The word in the original signifies more than a shield; it means a buckler round about, a protection which shall surround a man entirely, a shield above, beneath, around, without and within.”"
         }
       ]
     },
@@ -385,18 +359,16 @@
       "url": "https://books.google.com/books?id=AVxKAAAAIAAJ&pg=PA10",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Deutsch:</b></u> Hebr. \"- o Herr! Bist Schild um mich Ꝛc.\"; vgl. Ps 90,5; I Mos 15,1."
+          "kind": "original",
+          "lang": "de",
+          "label": "Deutsch",
+          "html": "Hebr. \"- o Herr! Bist Schild um mich Ꝛc.\"; vgl. Ps 90,5; I Mos 15,1."
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> Hebrew: \"- O Lord, you are a shield around me &amp;c.\"; cf. Ps 90:5 (91:4?); Gen 15:1 </span>"
+          "label": "My Translation",
+          "html": "Hebrew: \"- O Lord, you are a shield around me &amp;c.\"; cf. Ps 90:5 (91:4?); Gen 15:1"
         }
       ]
     },
@@ -408,11 +380,10 @@
       "url": "https://www.google.com/books/edition/The_Psalms/E0xGAAAAYAAJ?hl=en&gbpv=1&pg=PA15",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> 3. a. \"For me,\" or perhaps \"round about me,\" for מגן , as a subst. of surrounding, may like the verbs of surrounding (cf. Lament. iii. 7) give בעד this signf., if indeed it be not the primary meaning of this preposition. בעד when defined by the verb may also mean behind,\" and in close connection with such local signfs. the meanings \"in the place of,\" \" on behalf of\" come into use. בעד is in fact περί both with genit. and accus. LXX. gives the general meaning, ἀντιλήπτωρ μου εἰ. </span>"
+          "html": "3. a. \"For me,\" or perhaps \"round about me,\" for מגן , as a subst. of surrounding, may like the verbs of surrounding (cf. Lament. iii. 7) give בעד this signf., if indeed it be not the primary meaning of this preposition. בעד when defined by the verb may also mean behind,\" and in close connection with such local signfs. the meanings \"in the place of,\" \" on behalf of\" come into use. בעד is in fact περί both with genit. and accus. LXX. gives the general meaning, ἀντιλήπτωρ μου εἰ."
         }
       ]
     },
@@ -424,18 +395,17 @@
       "url": "https://archive.org/details/Psalmen_416/page/n35/mode/2up",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Deutsch:</b></u> weil du mich züch tigend zu einer bessern Zukunft führen willst, bist du מגן בעדי, selbst Schild um mich daß die Gegner, deren Auftreten du zu meiner Züchtigung zulässest, nicht bis zu meinem gänzlichen Verderben vorschreiten können."
+          "kind": "original",
+          "lang": "de",
+          "label": "Deutsch",
+          "html": "weil du mich züch tigend zu einer bessern Zukunft führen willst, bist du מגן בעדי, selbst Schild um mich daß die Gegner, deren Auftreten du zu meiner Züchtigung zulässest, nicht bis zu meinem gänzlichen Verderben vorschreiten können."
         },
         {
           "kind": "translation",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b><a href=\"https://babel.hathitrust.org/cgi/pt?id=uc1.b4508670&amp;seq=50&amp;q1=shield\">English:</a></b></u> Because Thy chastisement is intended to guide me to a better future, Thou art מגן בעדי, Thyself a shield about me, so that the foes, whom Thou hast allowed to come to the fore temporarily in order to chastise me, cannot proceed to destroy me completely.</span>"
+          "html": "Because Thy chastisement is intended to guide me to a better future, Thou art מגן בעדי, Thyself a shield about me, so that the foes, whom Thou hast allowed to come to the fore temporarily in order to chastise me, cannot proceed to destroy me completely.",
+          "url": "https://babel.hathitrust.org/cgi/pt?id=uc1.b4508670&seq=50&q1=shield"
         }
       ]
     },
@@ -447,11 +417,10 @@
       "url": "https://babel.hathitrust.org/cgi/pt?id=aeu.ark:/13960/t75t41s8n&seq=225&q1=shield",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> The Psalmist says, \" But Thou, O Lord art מגן בּעדי (magen baädi) a shield about me.\" (Ps. iii. 4.) I do not mean to say that בּעד (bead) is not used sometimes in the sense behind, but the context will, in those cases, indicate that it must be so rendered. </span>"
+          "html": "The Psalmist says, \" But Thou, O Lord art מגן בּעדי (magen baädi) a shield about me.\" (Ps. iii. 4.) I do not mean to say that בּעד (bead) is not used sometimes in the sense behind, but the context will, in those cases, indicate that it must be so rendered."
         }
       ]
     },
@@ -463,18 +432,16 @@
       "url": "https://archive.org/details/diepsalmen00duhm/page/11/mode/1up",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Deutsch:</b></u> Aber Jahwe schützt und erhebt den Dichter von Zion aus. וְאַתָּה ist Gegensatz zu den Vielen v. 2 f. Jahwe ist Schild (wie sonst Burg, Rettungsfelsen u. dgl.) um mich, weil er nach allen Seiten deckt, …"
+          "kind": "original",
+          "lang": "de",
+          "label": "Deutsch",
+          "html": "Aber Jahwe schützt und erhebt den Dichter von Zion aus. וְאַתָּה ist Gegensatz zu den Vielen v. 2 f. Jahwe ist Schild (wie sonst Burg, Rettungsfelsen u. dgl.) um mich, weil er nach allen Seiten deckt, …"
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> But Yahweh protects and raises up the poet from Zion. וְאַתָּה is in contrast to the many v. 2 f. Yahweh is a shield (like a fortress, rock of salvation, etc.) around me, because he covers all sides, …</span>"
+          "label": "My Translation",
+          "html": "But Yahweh protects and raises up the poet from Zion. וְאַתָּה is in contrast to the many v. 2 f. Yahweh is a shield (like a fortress, rock of salvation, etc.) around me, because he covers all sides, …"
         }
       ]
     },
@@ -486,18 +453,16 @@
       "url": "https://archive.org/details/handkommenttesta00nowa/page/8",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Deutsch:</b></u>“Die Vielen sagten: kein Gott kann ihm helfen. Darauf antwortete der Sanger: Jahve, der Gott Israels, der ewig teue, wird mich schirmen. בּעדי geht nicht auf das Bild, da der Schild nicht auf allen Seiten deckt, sondern auf die Sache. Jahve ist rings um ihn her, ihn schützend wie ein Schild, vgl.<br>Hast not Thou made a hedge about him, and about his house, and about all that he hath, on every side? -Job 1:10a\">Job 1:10</a>,<br>אֵלִי צוּרִי, אֶחֱסֶה-בּוֹ;    מָגִנִּי וְקֶרֶן-יִשְׁעִי, מִשְׂגַּבִּי<br>The LORD is my rock, and my fortress, and my deliverer;<br>my God, my rock, in Him I take refuge; my shield, and my horn of salvation, my high tower. -Psalm 18:3\">Ps 18:3</a>,<br>Thou art my covert and my shield; in Thy word do I hope. -Psalm 119:114\">119:114</a>.”"
+          "kind": "original",
+          "lang": "de",
+          "label": "Deutsch",
+          "html": "“Die Vielen sagten: kein Gott kann ihm helfen. Darauf antwortete der Sanger: Jahve, der Gott Israels, der ewig teue, wird mich schirmen. בּעדי geht nicht auf das Bild, da der Schild nicht auf allen Seiten deckt, sondern auf die Sache. Jahve ist rings um ihn her, ihn schützend wie ein Schild, vgl.<br>Hast not Thou made a hedge about him, and about his house, and about all that he hath, on every side? -Job 1:10a\">Job 1:10</a>,<br>אֵלִי צוּרִי, אֶחֱסֶה-בּוֹ;    מָגִנִּי וְקֶרֶן-יִשְׁעִי, מִשְׂגַּבִּי<br>The LORD is my rock, and my fortress, and my deliverer;<br>my God, my rock, in Him I take refuge; my shield, and my horn of salvation, my high tower. -Psalm 18:3\">Ps 18:3</a>,<br>Thou art my covert and my shield; in Thy word do I hope. -Psalm 119:114\">119:114</a>.”"
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> The many said: No God can help him. To which the singer replied: Yahweh, the God of Israel, who repents forever, will defend me. בּעדי does not refer to the image, since the shield does not cover on all sides, but rather to the concept. Yahweh is all around him, protecting him like a shield, cf.<br>Hast not Thou made a hedge about him, and about his house, and about all that he hath, on every side? -Job 1:10a\">Job 1:10</a>,<br>אֵלִי צוּרִי, אֶחֱסֶה-בּוֹ;    מָגִנִּי וְקֶרֶן-יִשְׁעִי, מִשְׂגַּבִּי<br>The LORD is my rock, and my fortress, and my deliverer;<br>my God, my rock, in Him I take refuge; my shield, and my horn of salvation, my high tower. -Psalm 18:3\">Ps 18:3</a>,<br>Thou art my covert and my shield; in Thy word do I hope. -Psalm 119:114\">119:114.</a></span>"
+          "label": "My Translation",
+          "html": "The many said: No God can help him. To which the singer replied: Yahweh, the God of Israel, who repents forever, will defend me. בּעדי does not refer to the image, since the shield does not cover on all sides, but rather to the concept. Yahweh is all around him, protecting him like a shield, cf.<br>Hast not Thou made a hedge about him, and about his house, and about all that he hath, on every side? -Job 1:10a\">Job 1:10</a>,<br>אֵלִי צוּרִי, אֶחֱסֶה-בּוֹ;    מָגִנִּי וְקֶרֶן-יִשְׁעִי, מִשְׂגַּבִּי<br>The LORD is my rock, and my fortress, and my deliverer;<br>my God, my rock, in Him I take refuge; my shield, and my horn of salvation, my high tower. -Psalm 18:3\">Ps 18:3</a>,<br>Thou art my covert and my shield; in Thy word do I hope. -Psalm 119:114\">119:114.</a></span>"
         }
       ]
     },
@@ -509,11 +474,10 @@
       "url": "https://archive.org/details/criticalpsalms115briguoft/page/n140/mode/1up",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> Yahweh a shield about me] antith. v.2a </span>"
+          "html": "Yahweh a shield about me] antith. v.2a"
         }
       ]
     },
@@ -525,18 +489,16 @@
       "url": "https://archive.org/details/commentariusinps00knab/page/26/mode/1up",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Latin:</b></u> Dominum vocat suum scutum quo omni ex parte protectus sit, et contra quod scutum arma hostilia nihil valeant. … Bene vertit Hier v. 4 tu autem, Domine, clipeus circa me"
+          "kind": "original",
+          "lang": "la",
+          "label": "Latin",
+          "html": "Dominum vocat suum scutum quo omni ex parte protectus sit, et contra quod scutum arma hostilia nihil valeant. … Bene vertit Hier v. 4 tu autem, Domine, clipeus circa me"
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> He calls the Lord his shield, by which he is protected on all sides, and against which the weapons of the enemy are powerless. … Jerome translates verse 4 well: “But you, O Lord, are a shield around me.” </span>"
+          "label": "My Translation",
+          "html": "He calls the Lord his shield, by which he is protected on all sides, and against which the weapons of the enemy are powerless. … Jerome translates verse 4 well: “But you, O Lord, are a shield around me.”"
         }
       ]
     },
@@ -548,11 +510,10 @@
       "url": "https://archive.org/details/thepsalmsastudy01boyluoft/page/n86/mode/1up?q=susceptor",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> Susceptor is used in the Psalter as = helper or defender. The Hebrew, \"Thou, O Yahweh, art a shield round about me,\" is changed intentionally into the less vivid, but, to the later mind, more respectful: Susceptor meus es tu.</span>"
+          "html": "Susceptor is used in the Psalter as = helper or defender. The Hebrew, \"Thou, O Yahweh, art a shield round about me,\" is changed intentionally into the less vivid, but, to the later mind, more respectful: Susceptor meus es tu."
         }
       ]
     },
@@ -564,18 +525,17 @@
       "url": "https://babel.hathitrust.org/cgi/pt?id=iau.31858048797843&seq=34",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Deutsch:</b></u> Ein gewöhnlicher Schild deckt nur von einer, Jahve aber von allen Seiten; בַּעֲדִי vgl.<br>Hast not Thou made a hedge about him, and about his house, and about all that he hath, on every side? -Job 1:10a\">Job 1:10</a>"
+          "kind": "original",
+          "lang": "de",
+          "label": "Deutsch",
+          "html": "Ein gewöhnlicher Schild deckt nur von einer, Jahve aber von allen Seiten; בַּעֲדִי vgl.<br>Hast not Thou made a hedge about him, and about his house, and about all that he hath, on every side? -Job 1:10a\">Job 1:10</a>"
         },
         {
           "kind": "translation",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b><a href=\"https://books.google.com/books?id=Fy4B1iMg33YC&amp;pg=PA224\">English</a></b></u>: An ordinary shield provides cover from only one side, but Yahweh protects from every side; בַּעֲדִי cf.<br>Hast not Thou made a hedge about him, and about his house, and about all that he hath, on every side? -Job 1:10a\">Job 1:10</a></span></span>"
+          "html": "An ordinary shield provides cover from only one side, but Yahweh protects from every side; בַּעֲדִי cf.<br>Hast not Thou made a hedge about him, and about his house, and about all that he hath, on every side? -Job 1:10a\">Job 1:10</a></span></span>",
+          "url": "https://books.google.com/books?id=Fy4B1iMg33YC&pg=PA224"
         }
       ]
     },
@@ -587,18 +547,16 @@
       "url": "https://archive.org/details/psalteriumexhebr0000unse/page/4/mode/2up",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Latin:</b></u> Veteres saepe utebantur clipeis ita flexis, ut corpus bene circumtegerent."
+          "kind": "original",
+          "lang": "la",
+          "label": "Latin",
+          "html": "Veteres saepe utebantur clipeis ita flexis, ut corpus bene circumtegerent."
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> The ancients often used shields curved in such a way that they might well cover the body all around.</span>"
+          "label": "My Translation",
+          "html": "The ancients often used shields curved in such a way that they might well cover the body all around."
         }
       ]
     },
@@ -610,18 +568,16 @@
       "url": "https://archive.org/details/sales-marco-salmi/page/23/mode/1up",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Italiano:</b></u>  Al sarcasmo di quei che dicono : Per lui non vi è salute nel suo Dio egli oppone la solenne affermazione : Ma tu, o Signore, tu sei il mio scudo, che mi protegge e difende da ogni parte. L’ebraico va tradotto : Ma tu, o Signore, tu sei uno scudo attorno a me. L’immagine dello scudo è spesso usata per indicare la protezione di Dio (Gen. XV, 1 ; Deut. XXXIII, 29; Salm. XVII, 3, 31, 36 ecc.)."
+          "kind": "original",
+          "lang": "it",
+          "label": "Italiano",
+          "html": "Al sarcasmo di quei che dicono : Per lui non vi è salute nel suo Dio egli oppone la solenne affermazione : Ma tu, o Signore, tu sei il mio scudo, che mi protegge e difende da ogni parte. L’ebraico va tradotto : Ma tu, o Signore, tu sei uno scudo attorno a me. L’immagine dello scudo è spesso usata per indicare la protezione di Dio (Gen. XV, 1 ; Deut. XXXIII, 29; Salm. XVII, 3, 31, 36 ecc.)."
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> To the sarcasm of those who say: “For him there is no salvation in his God,” he opposes the solemn affirmation: “But you, O Lord, you are my shield, who protects and defends me from every side.” The Hebrew must be translated: “But you, O Lord, you are a shield around me.” The image of the shield is often used to indicate the protection of God (Genesis 15:1; Deuteronomy 33:29; Psalm 17:3, 31, 36, etc.).</span>"
+          "label": "My Translation",
+          "html": "To the sarcasm of those who say: “For him there is no salvation in his God,” he opposes the solemn affirmation: “But you, O Lord, you are my shield, who protects and defends me from every side.” The Hebrew must be translated: “But you, O Lord, you are a shield around me.” The image of the shield is often used to indicate the protection of God (Genesis 15:1; Deuteronomy 33:29; Psalm 17:3, 31, 36, etc.)."
         }
       ]
     },
@@ -633,18 +589,16 @@
       "url": null,
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Français:</b></u> 4a) Ici et au ps. CXIX (CXVIII), 114, les LXX traduisent mâghên par ἀντιλήπτωρ (Vulg. : susceptor). Le sens précis est « bouclier rond » ou « rondache ». … Mais à la première impression de crainte a succédé un ressaut de confiance : en face des ennemis, il ya lahvé qui, comme un merveilleux bouclier, enveloppe de toute part le pieux suppliant; il est sa gloire; il relèvera sa tête de l'opprobre et de la tristesse présente; de la montagne sainte, il entendra son cri d'appel."
+          "kind": "original",
+          "lang": "fr",
+          "label": "Français",
+          "html": "4a) Ici et au ps. CXIX (CXVIII), 114, les LXX traduisent mâghên par ἀντιλήπτωρ (Vulg. : susceptor). Le sens précis est « bouclier rond » ou « rondache ». … Mais à la première impression de crainte a succédé un ressaut de confiance : en face des ennemis, il ya lahvé qui, comme un merveilleux bouclier, enveloppe de toute part le pieux suppliant; il est sa gloire; il relèvera sa tête de l'opprobre et de la tristesse présente; de la montagne sainte, il entendra son cri d'appel."
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> 4a) Here and in Psalm 119 (118), verse 114, the LXX translates mâghên as ἀντιλήπτωρ (the Vulgate: susceptor). The precise meaning is “round shield” or “rondache.” … But after the initial feeling of fear came a surge of confidence: in the face of his enemies, there is Yahweh, who, like a marvelous shield, surrounds the devout supplicant on all sides; He is his glory; He will lift his head from shame and present sorrow; from the holy mountain, He will hear his cry for help. </span>"
+          "label": "My Translation",
+          "html": "4a) Here and in Psalm 119 (118), verse 114, the LXX translates mâghên as ἀντιλήπτωρ (the Vulgate: susceptor). The precise meaning is “round shield” or “rondache.” … But after the initial feeling of fear came a surge of confidence: in the face of his enemies, there is Yahweh, who, like a marvelous shield, surrounds the devout supplicant on all sides; He is his glory; He will lift his head from shame and present sorrow; from the holy mountain, He will hear his cry for help."
         }
       ]
     },
@@ -656,11 +610,10 @@
       "url": null,
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> Bold enough would be any statement to the effect that the Lord held a shield round about this servant of His. Much bolder is the concept of God Himself as this shield, especially when this shield is \"about\" him, affording all-sided protection.  </span>"
+          "html": "Bold enough would be any statement to the effect that the Lord held a shield round about this servant of His. Much bolder is the concept of God Himself as this shield, especially when this shield is \"about\" him, affording all-sided protection."
         }
       ]
     },
@@ -672,18 +625,17 @@
       "url": "https://archive.org/details/psalmen0001krau/page/26/mode/2up?q=schild",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Deutsch:</b></u> Menschen seinen Grund. Der Beter weiß Sich wie von einem Schilde von Gottes Gegenwart umgeben und in Gottes Schutz geborgen (vgl. Ps 27:5,6). „Ein gewöhnlicher SchiId deckt nur von einer, Jahwe aber von allen Seiten\" (Gunkel). Zu בּעד vgl. Ps 139:11. Daß Jahwe wie ein die Seinen schützt, wird in den Ps öfter gesagt, z.B. Ps 18:3 28:7 119:114."
+          "kind": "original",
+          "lang": "de",
+          "label": "Deutsch",
+          "html": "Menschen seinen Grund. Der Beter weiß Sich wie von einem Schilde von Gottes Gegenwart umgeben und in Gottes Schutz geborgen (vgl. Ps 27:5,6). „Ein gewöhnlicher SchiId deckt nur von einer, Jahwe aber von allen Seiten\" (Gunkel). Zu בּעד vgl. Ps 139:11. Daß Jahwe wie ein die Seinen schützt, wird in den Ps öfter gesagt, z.B. Ps 18:3 28:7 119:114."
         },
         {
           "kind": "translation",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b><a href=\"https://www.google.com/books/edition/Psalms_1_59/fkdx-GuZRzoC?hl=en&amp;gbpv=1&amp;bsq=%22surrounded+as+with+a+shield%22\">English:</a></b></u> The petitioner knows that he is surrounded as with a shield by the presence of God and sheltered in God's protection (cf.<br>.יַסְתִּרֵנִי, בְּסֵתֶר אָהֳלוֹ;    בְּצוּר, יְרוֹמְמֵנִי<br>;וְעַתָּה יָרוּם רֹאשִׁי, עַל אֹיְבַי סְבִיבוֹתַי,    וְאֶזְבְּחָה בְאָהֳלוֹ, זִבְחֵי תְרוּעָה<br>.אָשִׁירָה וַאֲזַמְּרָה,    לַיהוָה<br>5 For He concealeth me in His pavilion in the day of evil;<br>He hideth me in the covert of His tent; He lifteth me up upon a rock.<br>6 And now shall my head be lifted up above mine enemies round about me; and I will offer in His tabernacle sacrifices with trumpet-sound;<br>I will sing, yea, I will sing praises unto the LORD.\">Ps. 27:5, 6</a>). \"An ordinary shield covers only one side, but Yahweh protects from all sides\" (Gunkel). “On בּעד cf.<br>And if I say: 'Surely the darkness shall envelop me, and the light about me shall be night'; -Psalm 139:11\">Ps 139:11</a>. That Yahweh protects his own like a shield is recorded often in the Psalms, e.g., Pss.<br>אֵלִי צוּרִי, אֶחֱסֶה-בּוֹ;    מָגִנִּי וְקֶרֶן-יִשְׁעִי, מִשְׂגַּבִּי<br>The LORD is my rock, and my fortress, and my deliverer;<br>my God, my rock, in Him I take refuge; my shield, and my horn of salvation, my high tower. -Psalm 18:3(2)\">18:2</a>,<br>וַיַּעֲלֹז לִבִּי;    וּמִשִּׁירִי אֲהוֹדֶנּוּ.<br>The LORD is my strength and my shield, in Him hath my heart trusted, and I am helped;<br>therefore my heart greatly rejoiceth, and with my song will I praise Him. -Psalm 28:7\">28:7</a>;<br>Thou art my covert and my shield; in Thy word do I hope. -Psalm 119:114\">119:114</a>.”</span>"
+          "html": "The petitioner knows that he is surrounded as with a shield by the presence of God and sheltered in God's protection (cf.<br>.יַסְתִּרֵנִי, בְּסֵתֶר אָהֳלוֹ;    בְּצוּר, יְרוֹמְמֵנִי<br>;וְעַתָּה יָרוּם רֹאשִׁי, עַל אֹיְבַי סְבִיבוֹתַי,    וְאֶזְבְּחָה בְאָהֳלוֹ, זִבְחֵי תְרוּעָה<br>.אָשִׁירָה וַאֲזַמְּרָה,    לַיהוָה<br>5 For He concealeth me in His pavilion in the day of evil;<br>He hideth me in the covert of His tent; He lifteth me up upon a rock.<br>6 And now shall my head be lifted up above mine enemies round about me; and I will offer in His tabernacle sacrifices with trumpet-sound;<br>I will sing, yea, I will sing praises unto the LORD.\">Ps. 27:5, 6</a>). \"An ordinary shield covers only one side, but Yahweh protects from all sides\" (Gunkel). “On בּעד cf.<br>And if I say: 'Surely the darkness shall envelop me, and the light about me shall be night'; -Psalm 139:11\">Ps 139:11</a>. That Yahweh protects his own like a shield is recorded often in the Psalms, e.g., Pss.<br>אֵלִי צוּרִי, אֶחֱסֶה-בּוֹ;    מָגִנִּי וְקֶרֶן-יִשְׁעִי, מִשְׂגַּבִּי<br>The LORD is my rock, and my fortress, and my deliverer;<br>my God, my rock, in Him I take refuge; my shield, and my horn of salvation, my high tower. -Psalm 18:3(2)\">18:2</a>,<br>וַיַּעֲלֹז לִבִּי;    וּמִשִּׁירִי אֲהוֹדֶנּוּ.<br>The LORD is my strength and my shield, in Him hath my heart trusted, and I am helped;<br>therefore my heart greatly rejoiceth, and with my song will I praise Him. -Psalm 28:7\">28:7</a>;<br>Thou art my covert and my shield; in Thy word do I hope. -Psalm 119:114\">119:114</a>.”</span>",
+          "url": "https://www.google.com/books/edition/Psalms_1_59/fkdx-GuZRzoC?hl=en&gbpv=1&bsq=%22surrounded+as+with+a+shield%22"
         }
       ]
     },
@@ -695,18 +647,16 @@
       "url": "https://books.google.com/books?id=W0ri0wJujZ4C&q=bouclier#v=snippet&q=bouclier&f=false",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Français:</b></u> c) le bouclier qui entoure, opposé aux assaillants qui entouraient le psalmiste;"
+          "kind": "original",
+          "lang": "fr",
+          "label": "Français",
+          "html": "c) le bouclier qui entoure, opposé aux assaillants qui entouraient le psalmiste;"
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> c) the encircling shield, contrasting with the attackers who surrounded the psalmist;</span>"
+          "label": "My Translation",
+          "html": "c) the encircling shield, contrasting with the attackers who surrounded the psalmist;"
         }
       ]
     },
@@ -718,18 +668,16 @@
       "url": null,
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Deutsch:</b></u> In manchen Pss ist «Schild» nur mehr ein Ideogramm für Schutz und Sicherheit. Als solches verläßt es gelegentlich den Bereich des Anschaulichen. In 3,4 preist der Beter Gott als Schild «um mich» (oder «fiir mich»?). «Ein gewohnlicher Schild deckt nur von einer, Jahwe aber von allen Seiten» (Gunkel, Psalmen 14). Die Frage ist, ob Schild an dieser Stelle noch konkret zu verstehen oder zu einem stark abstrakten Ausdruck fiir «Schutz» geworden ist (vgl. die Haufung von Bildern in 5,13). Dann könnte man «Schild» und «Jahwe» einander nicht mehr gegenüberstellen, wie Gunkel das tut."
+          "kind": "original",
+          "lang": "de",
+          "label": "Deutsch",
+          "html": "In manchen Pss ist «Schild» nur mehr ein Ideogramm für Schutz und Sicherheit. Als solches verläßt es gelegentlich den Bereich des Anschaulichen. In 3,4 preist der Beter Gott als Schild «um mich» (oder «fiir mich»?). «Ein gewohnlicher Schild deckt nur von einer, Jahwe aber von allen Seiten» (Gunkel, Psalmen 14). Die Frage ist, ob Schild an dieser Stelle noch konkret zu verstehen oder zu einem stark abstrakten Ausdruck fiir «Schutz» geworden ist (vgl. die Haufung von Bildern in 5,13). Dann könnte man «Schild» und «Jahwe» einander nicht mehr gegenüberstellen, wie Gunkel das tut."
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> In some psalms, “shield” is no more than an ideogram for protection and security. As such, it occasionally departs from the realm of the concrete. In 3:4, the psalmist praises God as a shield “around me” (or “for me”?). “An ordinary shield covers only one side, but Yahweh covers all sides” (Gunkel, Psalmen, p. 14). The question is whether “shield” in this passage is still to be understood in a concrete sense or has become a highly abstract expression for “protection” (cf. the piling up of images in 5:13). If so, then “shield” and “Yahweh” could no longer be contrasted with one another, as Gunkel does.</span></span>"
+          "label": "My Translation",
+          "html": "In some psalms, “shield” is no more than an ideogram for protection and security. As such, it occasionally departs from the realm of the concrete. In 3:4, the psalmist praises God as a shield “around me” (or “for me”?). “An ordinary shield covers only one side, but Yahweh covers all sides” (Gunkel, Psalmen, p. 14). The question is whether “shield” in this passage is still to be understood in a concrete sense or has become a highly abstract expression for “protection” (cf. the piling up of images in 5:13). If so, then “shield” and “Yahweh” could no longer be contrasted with one another, as Gunkel does."
         }
       ]
     },
@@ -741,18 +689,16 @@
       "url": null,
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Français:</b></u> 4a: ... qui m'entoure, m. à m. : autour de moi (cf. Ps. 139,11) ; donc, pas seulement : qui me couvre. LXX a : mon défenseur sôʿadî). ...<br>En Lui, le psalmiste trouve, en effet, comme un merveilleux bouclier qui, au lieu de ne protéger que d'un seul côté, à la maniére des boucliers ordinaires, enveloppe de toutes parts (H. GUNKEL), et donc préserve sûrement de tous les coups assénés par les adversaires (cf. Dt. 33,29 ; Ps. 7,11 ; 28,7 ; 33,20 ; 59,12 ; 84,10,12 ; 115,9,10 ; 119,114 ; 144,2 ; Il S. 22,3,31 ; Pr. 2,7). Pour illustration, voir : l'impressionnant bas-relief du palais de Sennachérib (7e s. av. J.-C.), à Ninive, représentant des guerriers assyriens protégés par de grands boucliers, qui cependant ne les « entourent » n pas (cf. W. KELLER, La Bible arrachée aux sables, p. 193)."
+          "kind": "original",
+          "lang": "fr",
+          "label": "Français",
+          "html": "4a: ... qui m'entoure, m. à m. : autour de moi (cf. Ps. 139,11) ; donc, pas seulement : qui me couvre. LXX a : mon défenseur sôʿadî). ...<br>En Lui, le psalmiste trouve, en effet, comme un merveilleux bouclier qui, au lieu de ne protéger que d'un seul côté, à la maniére des boucliers ordinaires, enveloppe de toutes parts (H. GUNKEL), et donc préserve sûrement de tous les coups assénés par les adversaires (cf. Dt. 33,29 ; Ps. 7,11 ; 28,7 ; 33,20 ; 59,12 ; 84,10,12 ; 115,9,10 ; 119,114 ; 144,2 ; Il S. 22,3,31 ; Pr. 2,7). Pour illustration, voir : l'impressionnant bas-relief du palais de Sennachérib (7e s. av. J.-C.), à Ninive, représentant des guerriers assyriens protégés par de grands boucliers, qui cependant ne les « entourent » n pas (cf. W. KELLER, La Bible arrachée aux sables, p. 193)."
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u>  4a: ... which surrounds me, lit.: around me (cf. Ps. 139:11); therefore, not only: which covers me. LXX has: my defender sôʿadî). ...<br>In Him, the psalmist indeed finds something like a marvelous shield which, instead of protecting only from one side like ordinary shields, envelops all sides (H. Gunkel), and thus surely protects from all the blows struck by adversaries (cf. Dt. 33,29 ; Ps. 7,11 ; 28,7 ; 33,20 ; 59,12 ; 84,10,12 ; 115,9,10 ; 119,114 ; 144,2 ; Il S. 22,3,31 ; Pr. 2,7). For an illustration, see the impressive <a href=\"https://commons.wikimedia.org/wiki/File:Ancient_Assyria_Bas-Relief_of_Armed_Soldiers,_Palace_of_King_Sennacherib_%28704-689_BC%29_%28a%29.jpg\">bas-relief from the palace of Sennacherib</a> (7th century BC) in Nineveh, depicting Assyrian warriors protected by large shields, which do not, however, ‘surround’ them (cf. W. KELLER, La Bible arrachée aux sables, p. 193).<br>https://commons.wikimedia.org/wiki/File:Alabaster_bas-relief,_procession_of_Assyrian_soldiers_and_musicians_carrying_rectangular_drums,_reign_of_Sennacherib,_from_Nineveh,_Iraq._7th_century_BCE._Pergamon_Museum,_Berlin.jpg<br>https://armstronginstitute.org/4-how-sennacheribs-assyrians-poured-their-way-into-hezekiahs-lachish<br>https://armstronginstitute.org/enlarge_image?data=eyJpZCI6IjIwIiwiY2FwdGlvbiI6IkxhY2hpc2ggUmVsaWVmIiwiY3JlZGl0%0AIjoiTWlrZSBQZWVsIn0%3D%0A<br>https://armstronginstitute.org/enlarge_image?data=eyJpZCI6IjI0IiwiY2FwdGlvbiI6IkFzc3lyaWFuIHdhbGwgcmVsaWVmIHNo%0Ab3dpbmcgc2llZ2UgcmFtcCwgYmF0dGVyaW5nIHJhbXMsIGFyY2hlcnMgYW5k%0AIHByb3RlY3RpdmUg4oCcTC1zaGllbGTigJ0gc3RydWN0dXJlcy4iLCJjcmVk%0AaXQiOiJUcnVzdGVlcyBvZiB0aGUgQnJpdGlzaCBNdXNldW0ifQ%3D%3D%0A<br>https://www.ancientreplicas.com/ladder-fortress.html<br>https://www.worldhistory.org/image/3034/assyrian-siege/<br>https://www.gutenberg.org/cache/epub/16162/pg16162-images.html#linkDimage-0008<br>https://archive.org/details/sevengreatmonarc19001rawl/page/350/mode/2up<br>https://www.alamy.com/assyrian-bas-relief-sculpture-panel-showing-prisoners-after-the-capture-of-lachish-700-692-bc-room-xxxvi-panels-8-9-nineveh-south-west-palace-bri-image658375177.html?imageid=6F432988-8181-4716-9555-2351465BE46A&pn=1&searchId=3f6d7f860f3caba68d691da80d3847d3&searchtype=0<br>https://www.alamy.com/assyrian-wall-relief-showing-an-attack-on-lachish-about-700-692-from-nineveh-south-west-palace-during-sennacheribs-campaign-of-701-bc-the-capture-of-lachish-in-the-kingdom-of-judah-image186360282.html?imageid=C020789B-E05B-4525-9AF6-2ABDB0997349&pn=1&searchId=3f6d7f860f3caba68d691da80d3847d3&searchtype=0<br>https://www.alamy.com/stone-carved-relief-depicting-an-attack-on-lachish-assyrian-about-700-692-from-nineveh-south-west-palace-this-panel-show-an-important-incident-during-sennacheribs-campaign-of-701-bc-the-capture-of-lachish-in-the-kingdom-of-judah-image235037137.html?imageid=ED9DDDA8-5AA7-4C48-AEDF-81F98DB27C65&pn=1&searchId=3f6d7f860f3caba68d691da80d3847d3&searchtype=0<br>https://www.alamy.com/stone-carved-relief-depicting-an-attack-on-lachish-assyrian-about-700-692-from-nineveh-south-west-palace-room-xxxvi-panels-5-6-these-panels-show-an-important-incident-during-sennacheribs-campaign-of-701-bc-the-capture-of-lachish-in-the-kingdom-of-judah-artillery-hurl-stones-and-archers-are-shooting-arrows-as-troops-prepare-for-the-assault-image235036970.html?imageid=9E7A7D04-9318-432B-ABD5-40C5FC49989D&pn=1&searchId=3f6d7f860f3caba68d691da80d3847d3&searchtype=0<br>-->"
+          "label": "My Translation",
+          "html": "4a: ... which surrounds me, lit.: around me (cf. Ps. 139:11); therefore, not only: which covers me. LXX has: my defender sôʿadî). ...<br>In Him, the psalmist indeed finds something like a marvelous shield which, instead of protecting only from one side like ordinary shields, envelops all sides (H. Gunkel), and thus surely protects from all the blows struck by adversaries (cf. Dt. 33,29 ; Ps. 7,11 ; 28,7 ; 33,20 ; 59,12 ; 84,10,12 ; 115,9,10 ; 119,114 ; 144,2 ; Il S. 22,3,31 ; Pr. 2,7). For an illustration, see the impressive <a href=\"https://commons.wikimedia.org/wiki/File:Ancient_Assyria_Bas-Relief_of_Armed_Soldiers,_Palace_of_King_Sennacherib_%28704-689_BC%29_%28a%29.jpg\">bas-relief from the palace of Sennacherib</a> (7th century BC) in Nineveh, depicting Assyrian warriors protected by large shields, which do not, however, ‘surround’ them (cf. W. KELLER, La Bible arrachée aux sables, p. 193).<br>https://commons.wikimedia.org/wiki/File:Alabaster_bas-relief,_procession_of_Assyrian_soldiers_and_musicians_carrying_rectangular_drums,_reign_of_Sennacherib,_from_Nineveh,_Iraq._7th_century_BCE._Pergamon_Museum,_Berlin.jpg<br>https://armstronginstitute.org/4-how-sennacheribs-assyrians-poured-their-way-into-hezekiahs-lachish<br>https://armstronginstitute.org/enlarge_image?data=eyJpZCI6IjIwIiwiY2FwdGlvbiI6IkxhY2hpc2ggUmVsaWVmIiwiY3JlZGl0%0AIjoiTWlrZSBQZWVsIn0%3D%0A<br>https://armstronginstitute.org/enlarge_image?data=eyJpZCI6IjI0IiwiY2FwdGlvbiI6IkFzc3lyaWFuIHdhbGwgcmVsaWVmIHNo%0Ab3dpbmcgc2llZ2UgcmFtcCwgYmF0dGVyaW5nIHJhbXMsIGFyY2hlcnMgYW5k%0AIHByb3RlY3RpdmUg4oCcTC1zaGllbGTigJ0gc3RydWN0dXJlcy4iLCJjcmVk%0AaXQiOiJUcnVzdGVlcyBvZiB0aGUgQnJpdGlzaCBNdXNldW0ifQ%3D%3D%0A<br>https://www.ancientreplicas.com/ladder-fortress.html<br>https://www.worldhistory.org/image/3034/assyrian-siege/<br>https://www.gutenberg.org/cache/epub/16162/pg16162-images.html#linkDimage-0008<br>https://archive.org/details/sevengreatmonarc19001rawl/page/350/mode/2up<br>https://www.alamy.com/assyrian-bas-relief-sculpture-panel-showing-prisoners-after-the-capture-of-lachish-700-692-bc-room-xxxvi-panels-8-9-nineveh-south-west-palace-bri-image658375177.html?imageid=6F432988-8181-4716-9555-2351465BE46A&pn=1&searchId=3f6d7f860f3caba68d691da80d3847d3&searchtype=0<br>https://www.alamy.com/assyrian-wall-relief-showing-an-attack-on-lachish-about-700-692-from-nineveh-south-west-palace-during-sennacheribs-campaign-of-701-bc-the-capture-of-lachish-in-the-kingdom-of-judah-image186360282.html?imageid=C020789B-E05B-4525-9AF6-2ABDB0997349&pn=1&searchId=3f6d7f860f3caba68d691da80d3847d3&searchtype=0<br>https://www.alamy.com/stone-carved-relief-depicting-an-attack-on-lachish-assyrian-about-700-692-from-nineveh-south-west-palace-this-panel-show-an-important-incident-during-sennacheribs-campaign-of-701-bc-the-capture-of-lachish-in-the-kingdom-of-judah-image235037137.html?imageid=ED9DDDA8-5AA7-4C48-AEDF-81F98DB27C65&pn=1&searchId=3f6d7f860f3caba68d691da80d3847d3&searchtype=0<br>https://www.alamy.com/stone-carved-relief-depicting-an-attack-on-lachish-assyrian-about-700-692-from-nineveh-south-west-palace-room-xxxvi-panels-5-6-these-panels-show-an-important-incident-during-sennacheribs-campaign-of-701-bc-the-capture-of-lachish-in-the-kingdom-of-judah-artillery-hurl-stones-and-archers-are-shooting-arrows-as-troops-prepare-for-the-assault-image235036970.html?imageid=9E7A7D04-9318-432B-ABD5-40C5FC49989D&pn=1&searchId=3f6d7f860f3caba68d691da80d3847d3&searchtype=0<br>-->"
         }
       ]
     },
@@ -764,18 +710,16 @@
       "url": null,
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "Italiano:</u></b> Orizzontalita: I'«io» e al centro, accerchiato dai nemici (v. 7: sbjb), ma protetto da Jahweh (v. 4). … /<br>… Nel nostro salmo (v. 4), pero, si suppone che lo scudo avvolga interamente la persona, preservandola non solo frontalmente ma anche circolarmente da ogni colpo assestato dai nemici (b'dj). Il simbolo, allora, si trasforma in una metafora di totalita: Dio combatte salvando integralmente il suo fedele. Si riecheggerebbe cosi, in forma antitetica, la circolarita dei nemici che assaltano (v. 7)."
+          "kind": "original",
+          "lang": "it",
+          "label": "Italiano",
+          "html": "Orizzontalita: I'«io» e al centro, accerchiato dai nemici (v. 7: sbjb), ma protetto da Jahweh (v. 4). … /<br>… Nel nostro salmo (v. 4), pero, si suppone che lo scudo avvolga interamente la persona, preservandola non solo frontalmente ma anche circolarmente da ogni colpo assestato dai nemici (b'dj). Il simbolo, allora, si trasforma in una metafora di totalita: Dio combatte salvando integralmente il suo fedele. Si riecheggerebbe cosi, in forma antitetica, la circolarita dei nemici che assaltano (v. 7)."
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> Horizontality: the “I” is in the center, surrounded by enemies (v. 7: sbjb), but protected by Yahweh (v. 4). … /<br>… In our psalm (v. 4), however, the shield is supposed to envelop the person entirely, preserving him not only frontally but also round about (circolarmente) from every blow dealt by the enemies (b'dj). The symbol, then, turns into a metaphor of totality: God fights saving his faithful wholly. It thus echoes, in antithetical form, the encirclement (circolarita) of the assaulting enemies (v. 7).</span></span>"
+          "label": "My Translation",
+          "html": "Horizontality: the “I” is in the center, surrounded by enemies (v. 7: sbjb), but protected by Yahweh (v. 4). … /<br>… In our psalm (v. 4), however, the shield is supposed to envelop the person entirely, preserving him not only frontally but also round about (circolarmente) from every blow dealt by the enemies (b'dj). The symbol, then, turns into a metaphor of totality: God fights saving his faithful wholly. It thus echoes, in antithetical form, the encirclement (circolarita) of the assaulting enemies (v. 7).</span></span>"
         }
       ]
     },
@@ -787,11 +731,10 @@
       "url": "https://archive.org/details/psalms1500000crai/page/72/mode/2up?q=shield",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> “The psalmist, faced by foes, now recalls that God is a ‘shield round about,’ that is, protecting him on all sides.” </span>"
+          "html": "“The psalmist, faced by foes, now recalls that God is a ‘shield round about,’ that is, protecting him on all sides.”"
         }
       ]
     },
@@ -803,11 +746,10 @@
       "url": null,
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> “The ‘surrounding’ of the psalmist by divine aid in v 3 is now complemented by the ‘shield around me’ in v 4.” </span>"
+          "html": "“The ‘surrounding’ of the psalmist by divine aid in v 3 is now complemented by the ‘shield around me’ in v 4.”"
         }
       ]
     },
@@ -822,14 +764,13 @@
           "kind": "original",
           "lang": "it",
           "label": "Italiano",
-          "html": "</u> 4 uno scudo intorno a me: i LXX hanno: ἀντιλήπτωρ μου, da cui la Vg: susceptor meus, che la nVg ha variato in protector meus. …<br>— intorno a me: uno scudo normale copre la persona solo da una parte, mentre la protettrice presenza di Jahwèh circonda il suo fedele da ogni parte. L'immagine dello «scudo» è impiegata più volte nei Salmi (cf. 18,3; 28,7 ecc.)."
+          "html": "4 uno scudo intorno a me: i LXX hanno: ἀντιλήπτωρ μου, da cui la Vg: susceptor meus, che la nVg ha variato in protector meus. …<br>— intorno a me: uno scudo normale copre la persona solo da una parte, mentre la protettrice presenza di Jahwèh circonda il suo fedele da ogni parte. L'immagine dello «scudo» è impiegata più volte nei Salmi (cf. 18,3; 28,7 ecc.)."
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> 4 A shield around me: The LXX renders it ἀντιλήπτωρ μου, which the Vulgate (Vg) translates as susceptor meus, later revised in the New Vulgate (nVg) to protector meus. …<br>— around me: a normal shield covers the person only on one side, while the protective presence of Yahweh surrounds His faithful on every side. The image of the “shield” is used several times in the Psalms (cf. 18:3; 28:7 etc.).</span>"
+          "label": "My Translation",
+          "html": "4 A shield around me: The LXX renders it ἀντιλήπτωρ μου, which the Vulgate (Vg) translates as susceptor meus, later revised in the New Vulgate (nVg) to protector meus. …<br>— around me: a normal shield covers the person only on one side, while the protective presence of Yahweh surrounds His faithful on every side. The image of the “shield” is used several times in the Psalms (cf. 18:3; 28:7 etc.).</span>"
         }
       ]
     },
@@ -862,18 +803,16 @@
       "url": null,
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Français:</b></u> “Se croisant symétriquement, notons encore les rapports entre 2-3a et 6a (qwm/qwṣ) comme entre 4 et 7, ce dernier reposant sur la correspondance de sens entre bʿdy (le bouclier protecteur) et sbyb (les ennemis rendus inoffensifs)."
+          "kind": "original",
+          "lang": "fr",
+          "label": "Français",
+          "html": "“Se croisant symétriquement, notons encore les rapports entre 2-3a et 6a (qwm/qwṣ) comme entre 4 et 7, ce dernier reposant sur la correspondance de sens entre bʿdy (le bouclier protecteur) et sbyb (les ennemis rendus inoffensifs)."
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> “Crossing symmetrically, let us also note the relationships between 2-3a and 6a (qwm/qwṣ) as well as between 4 and 7, the latter being based on the correspondence of meaning between bʿdy (the protective shield) and sbyb (the enemies made harmless).” </span>"
+          "label": "My Translation",
+          "html": "“Crossing symmetrically, let us also note the relationships between 2-3a and 6a (qwm/qwṣ) as well as between 4 and 7, the latter being based on the correspondence of meaning between bʿdy (the protective shield) and sbyb (the enemies made harmless).”"
         }
       ]
     },
@@ -885,11 +824,10 @@
       "url": "https://books.google.com/books?id=rAfNBAAAQBAJ&pg=PT131",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u>“Confronted by impending destruction, the psalmist calls on his God as a protective barrier to inhibit and frustrate those who plan to do him harm. The term magen used here normally refers to a smaller round shield held in the hand and designed to protect the arm and upper torso of the soldier in battle while permitting freedom of movement to maneuver and counterattack. Yahweh, however, is complete protection — a magen that surrounds the psalmist before and behind.” </span>"
+          "html": "“Confronted by impending destruction, the psalmist calls on his God as a protective barrier to inhibit and frustrate those who plan to do him harm. The term magen used here normally refers to a smaller round shield held in the hand and designed to protect the arm and upper torso of the soldier in battle while permitting freedom of movement to maneuver and counterattack. Yahweh, however, is complete protection — a magen that surrounds the psalmist before and behind.”"
         }
       ]
     },
@@ -901,11 +839,10 @@
       "url": "https://books.google.com/books?id=Nl2ECLsbIAQC&newbks=1&newbks_redir=0&pg=PA91",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> “... his God acts toward him as a buckler of total protection, not only of frontal defense but also of a surrounding guard<br>(<a href=\"https://mechon-mamre.org/p/pt/pt26d9.htm#11\" data-hover=\"וָאֹמַר, אַךְ-חֹשֶׁךְ יְשׁוּפֵנִי;    וְלַיְלָה, אוֹר בַּעֲדֵנִי<br>And if I say: 'Surely the darkness shall envelop me, and the light about me shall be night'; -Psalm 139:11\">Ps 139:11</a>).” </span>"
+          "html": "“... his God acts toward him as a buckler of total protection, not only of frontal defense but also of a surrounding guard<br>(<a href=\"https://mechon-mamre.org/p/pt/pt26d9.htm#11\" data-hover=\"וָאֹמַר, אַךְ-חֹשֶׁךְ יְשׁוּפֵנִי;    וְלַיְלָה, אוֹר בַּעֲדֵנִי<br>And if I say: 'Surely the darkness shall envelop me, and the light about me shall be night'; -Psalm 139:11\">Ps 139:11</a>).” </span>"
         }
       ]
     },
@@ -917,11 +854,10 @@
       "url": "https://books.google.com/books?id=sr-XK4SVf4sC&pg=PA111",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> “‘About me’ strengthens the point. The expression is an unusual one, often used for shutting the door \"on\" someone, and elsewhere it usually has negative significance (e.g.,<br>To a man whose way is hid, and whom God hath hedged in? -Job 3:23\">Job 3:23</a>). But it is positive in<br>Hast not Thou made a hedge about him, and about his house, and about all that he hath, on every side? -Job 1:10a\">Job 1:10</a>, as here. A regular handheld shield does not wholly enclose a person, but this shield has that effect.” </span>"
+          "html": "“‘About me’ strengthens the point. The expression is an unusual one, often used for shutting the door \"on\" someone, and elsewhere it usually has negative significance (e.g.,<br>To a man whose way is hid, and whom God hath hedged in? -Job 3:23\">Job 3:23</a>). But it is positive in<br>Hast not Thou made a hedge about him, and about his house, and about all that he hath, on every side? -Job 1:10a\">Job 1:10</a>, as here. A regular handheld shield does not wholly enclose a person, but this shield has that effect.” </span>"
         }
       ]
     },
@@ -933,11 +869,10 @@
       "url": "https://books.google.com/books?id=WS1HDwAAQBAJ&pg=PA46",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> “The shield metaphor (v. 3; cf.<br>My shield is with God, who saveth the upright in heart. -Psalm 7:11(10)\">Ps 7:10</a>;<br>אֵלִי צוּרִי, אֶחֱסֶה-בּוֹ;    מָגִנִּי וְקֶרֶן-יִשְׁעִי, מִשְׂגַּבִּי<br>The LORD is my rock, and my fortress, and my deliverer;<br>my God, my rock, in Him I take refuge; my shield, and my horn of salvation, my high tower. -Psalm 18:3(2)\">18:2</a>;<br>etc.) is apt, but the psalmist’s thought breaks its bounds, for no shield can surround someone completely, just as no earthly protection can be as comprehensive as God’s.” </span>"
+          "html": "“The shield metaphor (v. 3; cf.<br>My shield is with God, who saveth the upright in heart. -Psalm 7:11(10)\">Ps 7:10</a>;<br>אֵלִי צוּרִי, אֶחֱסֶה-בּוֹ;    מָגִנִּי וְקֶרֶן-יִשְׁעִי, מִשְׂגַּבִּי<br>The LORD is my rock, and my fortress, and my deliverer;<br>my God, my rock, in Him I take refuge; my shield, and my horn of salvation, my high tower. -Psalm 18:3(2)\">18:2</a>;<br>etc.) is apt, but the psalmist’s thought breaks its bounds, for no shield can surround someone completely, just as no earthly protection can be as comprehensive as God’s.” </span>"
         }
       ]
     },
@@ -949,11 +884,10 @@
       "url": "https://www.researchgate.net/publication/237455960_'Killing_Them_Softly_with_this_Song_'_The_Literary_Structure_of_Psalm_3_and_Its_Psalmic_and_Davidic_Contexts1_Part_I_An_Intratextual_Interpretation_of_Psalm_3",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> “A similar development is visible in the use of the prepositions על, בעד, and סביב which are used in the descriptions of the threat of the enemy and the confessions of trust in YHWH: ‘many rise against (על) me’ (2); ‘you are a shield around (בעד) me (4); ‘I am not afraid … who have set themselves up around against (סביב על) me’ (7); ‘on (על) your people [may come] your blessing’ (9).” </span>"
+          "html": "“A similar development is visible in the use of the prepositions על, בעד, and סביב which are used in the descriptions of the threat of the enemy and the confessions of trust in YHWH: ‘many rise against (על) me’ (2); ‘you are a shield around (בעד) me (4); ‘I am not afraid … who have set themselves up around against (סביב על) me’ (7); ‘on (על) your people [may come] your blessing’ (9).”"
         }
       ]
     },
@@ -965,18 +899,16 @@
       "url": "https://www.scribd.com/document/42241577/Costa-Curt-A",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Italiano:</b></u> “\"ma invece tu Signore sei \"il mio scudo all'intorno\" (di solito si traduce \"la mia difesa\")\", l'immagine e quella militare dello scudo che non cancella il pericolo,ma mette al riparo dal pericolo, che non difende solo davanti, ma \"tutto intorno\": uno scudo particolare, che non difende solo in modo parziale ma in modo totale. I nemici infatti si sono 'accampati\" tutto intorno.”"
+          "kind": "original",
+          "lang": "it",
+          "label": "Italiano",
+          "html": "“\"ma invece tu Signore sei \"il mio scudo all'intorno\" (di solito si traduce \"la mia difesa\")\", l'immagine e quella militare dello scudo che non cancella il pericolo,ma mette al riparo dal pericolo, che non difende solo davanti, ma \"tutto intorno\": uno scudo particolare, che non difende solo in modo parziale ma in modo totale. I nemici infatti si sono 'accampati\" tutto intorno.”"
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> ““But you, Lord, are a shield around me” (often translated as “my defense”). This is a military image: the shield doesn’t eliminate danger, but protects from it. It doesn’t only defend from the front, but “all around” - a special kind of shield that offers complete protection, not just partial. This is significant because the enemies have encamped all around him.” </span>"
+          "label": "My Translation",
+          "html": "““But you, Lord, are a shield around me” (often translated as “my defense”). This is a military image: the shield doesn’t eliminate danger, but protects from it. It doesn’t only defend from the front, but “all around” - a special kind of shield that offers complete protection, not just partial. This is significant because the enemies have encamped all around him.”"
         }
       ]
     },
@@ -988,18 +920,16 @@
       "url": "https://dokumen.pub/comentario-filologico-a-los-salmos-y-al-cantar-de-los-cantares-9788422015635.html",
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Español:</b></u> 4a en torno a mí. El significado de la preposición/adverbio 1= detrás (de), para (cf. ugar. 1.3 III 33) oscila en nuestro salmo entre un para mí (KB 135,4) y un en torno a mí (KB 135,3; DBHE T1 b). Son muchos los que se aceptan la segunda posibilidad (Jerón, Ros, Del, Phil, Duhm, Gun, Briggs, Kr, Rav, Lan). Son partidarios de la primera posibilidad J § 103 y BA. Tal vez haga al caso el comentario de Gunkel: «Un escudo ordinario protege solo una parte, pero Yahvé protege todas las partes». Con la mayoría de los traductores me inclino por la segunda posibilidad."
+          "kind": "original",
+          "lang": "es",
+          "label": "Español",
+          "html": "4a en torno a mí. El significado de la preposición/adverbio 1= detrás (de), para (cf. ugar. 1.3 III 33) oscila en nuestro salmo entre un para mí (KB 135,4) y un en torno a mí (KB 135,3; DBHE T1 b). Son muchos los que se aceptan la segunda posibilidad (Jerón, Ros, Del, Phil, Duhm, Gun, Briggs, Kr, Rav, Lan). Son partidarios de la primera posibilidad J § 103 y BA. Tal vez haga al caso el comentario de Gunkel: «Un escudo ordinario protege solo una parte, pero Yahvé protege todas las partes». Con la mayoría de los traductores me inclino por la segunda posibilidad."
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u>  4a around me. The translation of the preposition/adverb 1= behind (of), for (cf. ugar. 1.3 III 33) varies in our psalm between for me (KB 135,4) and around me (KB 135,3; DBHE T1 b). Many accept the second possibility (Jeron, Ros, Del, Phil, Duhm, Gun, Briggs, Kr, Rav, Lan). J § 103 and BA are in favor of the first possibility. Perhaps Gunkel's comment may be relevant: “An ordinary shield protects only one side, but Yahweh protects all sides”. With the majority of translators I am inclined to the second possibility."
+          "label": "My Translation",
+          "html": "4a around me. The translation of the preposition/adverb 1= behind (of), for (cf. ugar. 1.3 III 33) varies in our psalm between for me (KB 135,4) and around me (KB 135,3; DBHE T1 b). Many accept the second possibility (Jeron, Ros, Del, Phil, Duhm, Gun, Briggs, Kr, Rav, Lan). J § 103 and BA are in favor of the first possibility. Perhaps Gunkel's comment may be relevant: “An ordinary shield protects only one side, but Yahweh protects all sides”. With the majority of translators I am inclined to the second possibility."
         }
       ]
     },
@@ -1011,11 +941,10 @@
       "url": "https://books.google.com/books?id=uo1yCgAAQBAJ&pg=PA75",
       "texts": [
         {
-          "kind": "translation",
+          "kind": "original",
           "lang": "en",
           "label": "English",
-          "citation": null,
-          "html": "<u><b>English:</b></u> “What is significant here is that, unlike a normal shield which only protects in one direction, God is seen as a shield all around — the perfect counterbalance to the many enemies overwhelming the psalmist on all sides (cf. all around, v. 6) </span>"
+          "html": "“What is significant here is that, unlike a normal shield which only protects in one direction, God is seen as a shield all around — the perfect counterbalance to the many enemies overwhelming the psalmist on all sides (cf. all around, v. 6)"
         }
       ]
     },
@@ -1027,18 +956,16 @@
       "url": null,
       "texts": [
         {
-          "kind": "translation",
-          "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>Deutsch:</b></u> »Du bist ein Schild rings um mich«: Die Präposition בעד heißt »für«, »durch«, »hinter«, »um herum« (Ps 139, 11) und impliziert einen räumlichen Abstand. JHWH ist sein Schild, der ihm die vom Leibe hält, die als Bedränger von allen Seiten und als Sich Erhebende von oben auf ihn andrängen. JHWH als »meine Ehre und Erheber meines Haupts« sorgt dafür, dass der Bedrängte sich nicht mehr ducken muss. Das Bild vom »Schild« ist im Psalter verbreitet (Ps 18,3; 28,7; 119, 114). An Sich ist der hier genannte kleinere, am Arm getragene Schild מגן (von גנן »schirmen«) noch weniger als der mannshohe Standschild צנה (Jer 46,3; Ez 38,4; 39,9) geeignet, einen Menschen ringsum zu schützen. Das Bild schließt ein, dass JHWH als »Schild« rastlos in körperdeckender Bewegung um den Beter ist.<br>...<br>Die LXX übersetzt das konkrete Bild vom »Schild um mich«, da es ihm auf Gott bezogen zu anthropomorph ist, in V 4 abstrakter mit »der Sich meiner Annehmende« ἀντιλήμπτωρ μου. Dasselbe tut sie in Ps während sie sonst meist »Beschützer« schreibt (Ps u.ö.)."
+          "kind": "original",
+          "lang": "de",
+          "label": "Deutsch",
+          "html": "»Du bist ein Schild rings um mich«: Die Präposition בעד heißt »für«, »durch«, »hinter«, »um herum« (Ps 139, 11) und impliziert einen räumlichen Abstand. JHWH ist sein Schild, der ihm die vom Leibe hält, die als Bedränger von allen Seiten und als Sich Erhebende von oben auf ihn andrängen. JHWH als »meine Ehre und Erheber meines Haupts« sorgt dafür, dass der Bedrängte sich nicht mehr ducken muss. Das Bild vom »Schild« ist im Psalter verbreitet (Ps 18,3; 28,7; 119, 114). An Sich ist der hier genannte kleinere, am Arm getragene Schild מגן (von גנן »schirmen«) noch weniger als der mannshohe Standschild צנה (Jer 46,3; Ez 38,4; 39,9) geeignet, einen Menschen ringsum zu schützen. Das Bild schließt ein, dass JHWH als »Schild« rastlos in körperdeckender Bewegung um den Beter ist.<br>...<br>Die LXX übersetzt das konkrete Bild vom »Schild um mich«, da es ihm auf Gott bezogen zu anthropomorph ist, in V 4 abstrakter mit »der Sich meiner Annehmende« ἀντιλήμπτωρ μου. Dasselbe tut sie in Ps während sie sonst meist »Beschützer« schreibt (Ps u.ö.)."
         },
         {
           "kind": "translation",
           "lang": "en",
-          "label": "English",
-          "citation": null,
-          "html": "<u><b>My Translation:</b></u> “You are a shield around me”: The preposition בעד means “for,” “through,” “behind,” “around” (cf. <a href=\"https://mechon-mamre.org/p/pt/pt26d9.htm#11\" data-hover=\"וָאֹמַר, אַךְ-חֹשֶׁךְ יְשׁוּפֵנִי;    וְלַיְלָה, אוֹר בַּעֲדֵנִי<br>And if I say: 'Surely the darkness shall envelop me, and the light about me shall be night'; -Psalm 139:11\">Ps 139,11</a>) and implies spatial distance. JHWH is his shield, holding off those who press in from all sides and rise up over him. JHWH as “my glory and the lifter of my head” ensures that the oppressed no longer needs to bow down. The metaphor of the “shield” is widespread in the Psalter (<a href=\"https://mechon-mamre.org/p/pt/pt2618.htm\" data-hover=\":יְהוָה, סַלְעִי וּמְצוּדָתִי--    וּמְפַלְטִי<br>אֵלִי צוּרִי, אֶחֱסֶה-בּוֹ;    מָגִנִּי וְקֶרֶן-יִשְׁעִי, מִשְׂגַּבִּי<br>The LORD is my rock, and my fortress, and my deliverer;<br>my God, my rock, in Him I take refuge; my shield, and my horn of salvation, my high tower. -Psalm 18:3(2)\">18,3</a>; <a href=\"https://mechon-mamre.org/p/pt/pt2628.htm\" data-hover=\":יְהוָה, עֻזִּי וּמָגִנִּי--    בּוֹ בָטַח לִבִּי, וְנֶעֱזָרְתִּי<br>וַיַּעֲלֹז לִבִּי;    וּמִשִּׁירִי אֲהוֹדֶנּוּ.<br>The LORD is my strength and my shield, in Him hath my heart trusted, and I am helped;<br>therefore my heart greatly rejoiceth, and with my song will I praise Him. -Psalm 28:7\">28,7</a>; <a href=\"https://mechon-mamre.org/p/pt/pt26b9.htm#114\" data-hover=\"סִתְרִי וּמָגִנִּי אָתָּה;    לִדְבָרְךָ יִחָלְתִּי<br>Thou art my covert and my shield; in Thy word do I hope. -Psalm 119:114\">119,114</a>). The smaller, arm-held shield מגן (from גנן “to protect”) mentioned here is even less suited than the man-sized standing shield צנה (Jer 46:3; Ez 38:4; 39:9) for protecting a person all around. The metaphor implies that JHWH as “shield” is in ceaseless motion around the psalmist, offering full-body protection.<br>...<br>The LXX translates the concrete image of ‘shield around me,’ which is too anthropomorphic when referring to God, more abstractly in verse 4 as ‘the one who accepts me’ ἀντιλήμπτωρ μου. It does the same in Psalms, where it usually writes ‘protector’ (Psalms, etc.). </span>"
+          "label": "My Translation",
+          "html": "“You are a shield around me”: The preposition בעד means “for,” “through,” “behind,” “around” (cf.<br>And if I say: 'Surely the darkness shall envelop me, and the light about me shall be night'; -Psalm 139:11\">Ps 139,11</a>) and implies spatial distance. JHWH is his shield, holding off those who press in from all sides and rise up over him. JHWH as “my glory and the lifter of my head” ensures that the oppressed no longer needs to bow down. The metaphor of the “shield” is widespread in the Psalter (<a href=\"https://mechon-mamre.org/p/pt/pt2618.htm\" data-hover=\":יְהוָה, סַלְעִי וּמְצוּדָתִי--    וּמְפַלְטִי<br>אֵלִי צוּרִי, אֶחֱסֶה-בּוֹ;    מָגִנִּי וְקֶרֶן-יִשְׁעִי, מִשְׂגַּבִּי<br>The LORD is my rock, and my fortress, and my deliverer;<br>my God, my rock, in Him I take refuge; my shield, and my horn of salvation, my high tower. -Psalm 18:3(2)\">18,3</a>; <a href=\"https://mechon-mamre.org/p/pt/pt2628.htm\" data-hover=\":יְהוָה, עֻזִּי וּמָגִנִּי--    בּוֹ בָטַח לִבִּי, וְנֶעֱזָרְתִּי<br>וַיַּעֲלֹז לִבִּי;    וּמִשִּׁירִי אֲהוֹדֶנּוּ.<br>The LORD is my strength and my shield, in Him hath my heart trusted, and I am helped;<br>therefore my heart greatly rejoiceth, and with my song will I praise Him. -Psalm 28:7\">28,7</a>; <a href=\"https://mechon-mamre.org/p/pt/pt26b9.htm#114\" data-hover=\"סִתְרִי וּמָגִנִּי אָתָּה;    לִדְבָרְךָ יִחָלְתִּי<br>Thou art my covert and my shield; in Thy word do I hope. -Psalm 119:114\">119,114</a>). The smaller, arm-held shield מגן (from גנן “to protect”) mentioned here is even less suited than the man-sized standing shield צנה (Jer 46:3; Ez 38:4; 39:9) for protecting a person all around. The metaphor implies that JHWH as “shield” is in ceaseless motion around the psalmist, offering full-body protection.<br>...<br>The LXX translates the concrete image of ‘shield around me,’ which is too anthropomorphic when referring to God, more abstractly in verse 4 as ‘the one who accepts me’ ἀντιλήμπτωρ μου. It does the same in Psalms, where it usually writes ‘protector’ (Psalms, etc.). </span>"
         }
       ]
     }
