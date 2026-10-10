@@ -2,8 +2,8 @@
 (() => {
   'use strict';
 
-  const LANG_NAMES = { he:'Hebrew', grc:'Greek', arc:'Aramaic', la:'Latin', de:'German', fr:'French',
-                       it:'Italian', es:'Spanish', en:'English', egy:'Egyptian', akk:'Akkadian' };
+  const LANG_NAMES = { he:'Hebrew', grc:'Greek', arc:'Aramaic', syc:'Syriac', cop:'Coptic', la:'Latin', de:'German',
+                       fr:'French', it:'Italian', es:'Spanish', en:'English', egy:'Egyptian', akk:'Akkadian' };
 
   const el = (tag, attrs = {}, ...kids) => {
     const n = document.createElement(tag);
